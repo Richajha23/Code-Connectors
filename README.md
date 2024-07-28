@@ -18,3 +18,8 @@ graph TD;
     D --> L[VS Code]
 
 
+![Coding Banner](https://your-image-url.com/coding-banner.jpg)
+
+Welcome to my GitHub profile! I'm a coder passionate about learning new skills and exploring the world of programming. Below you'll find information about my skills, projects, and how
+
+
