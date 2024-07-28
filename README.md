@@ -24,3 +24,19 @@ graph TD;
 
 
 
+ 🛠️ Coding Skills Bar Graph
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'barTextColor': '#fff', 'barColor': '#3498db'}}}%%
+graph TD;
+    A[HTML] -->|80%| B
+    C[C] -->|70%| D
+    E[C++] -->|75%| F
+    G[Data Structures] -->|65%| H
+    I[Algorithms] -->|65%| J
+    K[Git] -->|60%| L
+    M[GitHub] -->|60%| N
+    O[VS Code] -->|70%| P
+
+
+
