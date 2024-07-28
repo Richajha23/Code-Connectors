@@ -1,7 +1,8 @@
 # CodeConnectors
 👋 Hello, I'm Richa Jha
 This is my first Git Repository.
- Skills Flowchart
+
+Skills Flowchart
 
 ```mermaid
 graph TD;
