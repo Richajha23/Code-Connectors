@@ -19,11 +19,7 @@ graph TD;
     C --> I[Algorithms]
     D --> J[Git]
     D --> K[GitHub]
-    D --> L[VS Code]
-
-
-
-
+    
  🛠️ Coding Skills Bar Graph
 
 ```mermaid
